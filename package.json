@@ -1,0 +1,16 @@
+{
+  "name": "quote-of-the-day",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "A quote-of-the-day single-page application with persistent favorites in localStorage",
+  "scripts": {
+    "test": "node --test tests/*.test.js"
+  },
+  "keywords": [
+    "quote",
+    "vanilla-js",
+    "localstorage"
+  ],
+  "author": "",
+  "license": "ISC"
+}
